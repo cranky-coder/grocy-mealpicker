@@ -6,7 +6,7 @@
 #   }
 
 # use the above json to post the recipe ID to a spcecific day to add to meal plan.  Endpoint to send to is
-# https://grocy.k8.mybackflip.com/api/objects/meal_plan
+# /api/objects/meal_plan
 # returns the meal plan iD  shouldn't be needed
 
 
